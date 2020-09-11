@@ -1,0 +1,15 @@
+[package]
+name = "term-graph"
+version = "0.1.0"
+authors = ["Caspian Ahlberg <caspianahlberg@gmail.com>"]
+edition = "2018"
+license = "GNU GPL"
+keywords = ["graph", "ascii"]
+categories = ["command-line-utilities"]
+repository = "https://github.com/CaspianA1/term-graph"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+pancurses = "0.16"
+line_drawing = "0.8.0"
