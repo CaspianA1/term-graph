@@ -1,7 +1,7 @@
+[Documentation and package information](https://crates.io/crates/term_graph)
+
 ## Graph Rust closures in the terminal.
 - Note: the closures used are floating-point.
-
-[The official documentation and download information are available here:](https://crates.io/crates/term_graph)
 
 ### Here's an example of how to use term-graph:
 ```rust
