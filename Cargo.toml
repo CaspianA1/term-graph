@@ -7,7 +7,7 @@ license = "GNU GPL"
 keywords = ["graph", "ascii"]
 categories = ["command-line-utilities"]
 repository = "https://github.com/CaspianA1/term-graph"
-description = "A library to graph functions in the command line. For a tutorial on getting started, check out the CaspianA1/term-graph repository on Github.
+description = "A library to graph functions in the command line. For a tutorial on getting started, check out the CaspianA1/term-graph repository on Github."
 readme = true
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
