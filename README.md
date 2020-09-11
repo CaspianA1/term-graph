@@ -2,7 +2,10 @@
 - Note: the closures used are floating-point.
 
 ### Here's an example of how to use term-graph:
+1. Add 
 ```rust
+use term_graph::*;
+
 fn main() {
   let screen = init_screen();
   let graph_spot = make_plot_area(&screen, GraphPlacement::_TopMiddle);
