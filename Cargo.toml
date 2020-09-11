@@ -1,5 +1,5 @@
 [package]
-name = "term-graph"
+name = "term_graph"
 version = "0.1.0"
 authors = ["Caspian Ahlberg <caspianahlberg@gmail.com>"]
 edition = "2018"
